@@ -15,12 +15,11 @@
   "license": "ISC",
   "devDependencies": {
     "cssnano": "^4.1.10",
-    "gulp": "^4.0.2",
-    "gulp-gh-pages": "^0.5.4",
     "sass": "^1.27.0"
   },
   "dependencies": {
     "@dogstudio/highway": "^2.2.1",
-    "gsap": "^3.5.1"
+    "gsap": "^3.5.1",
+    "parcel-bundler": "^1.12.4"
   }
 }
